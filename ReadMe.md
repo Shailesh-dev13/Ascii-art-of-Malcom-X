@@ -96,4 +96,5 @@ The ASCII image will be printed in the terminal
  Conclusion
 
 This project successfully demonstrates how complex ASCII art can be generated using only Python loops and logical constructs.
+
 It highlights problem-solving skills, algorithm design, and strict adherence to academic constraints.

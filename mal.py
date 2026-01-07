@@ -167,8 +167,7 @@ def generate_ascii_art():
                     char="="
                 elif col==27 or 36 <= col <= 41 or col == 44: 
                     char="@"
-                elif col==29 or 32 <= col <= 35 or 42 <= col <= 43:
-                    char=":"             
+                 
             elif row==13:
                 if  col==25:
                     char=":"
@@ -299,4 +298,5 @@ def generate_ascii_art():
                            
             print (char, end='')
         print()   
+
 generate_ascii_art()                 
